@@ -19,7 +19,7 @@ What are customers likely to buy if they purchase whole milk?
 
              LHS         Ahat else in basket    SUPPORT    CONFIDENCE      LIFT
 
-         {whole milk}    {root vegetables}     0.048907      0.19140     1.75603   * alost 2 times as likely to purchase vegitables
+         {whole milk}    {root vegetables}     0.048907      0.19140     1.75603   * almost 2 times as likely to purchase vegetables
          {whole milk}    {tropical fruit}      0.042298      0.16554     1.57759
          {whole milk}    {yogurt}              0.056024      0.21926     1.57174
          {whole milk}    {other vegetables}    0.074835      0.29288     1.51363
